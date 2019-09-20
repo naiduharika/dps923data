@@ -1,0 +1,18 @@
+{
+    "student": "Harika Naidu",
+    "versrion": "1.0.0",
+    "timestamp": "2019-09-2013T11:39:12+0000",
+    "count": 10,
+    "data": [
+        {"id": 1, "courseCode": "BSD 771", "courseName": "Software Development, Co-op"},
+        {"id": 2, "courseCode": "BAB 235", "courseName": "Introduction to Marketing"},
+        {"id": 3, "courseCode": "BTE 620", "courseName": "Law, Ethics & Social Resp"},
+        {"id": 4, "courseCode": "BTH 645", "courseName": "Multimedia Elements"},
+        {"id": 5, "courseCode": "BTS 730", "courseName": "Project Mgmt. Methodologies"},
+        {"id": 6, "courseCode": "BTN 710", "courseName": "Information Security"},
+        {"id": 7, "courseCode": "DPS 920", "courseName": "Computer Vision"},
+        {"id": 8, "courseCode": "DPS 923", "courseName": "Mobile App Dev-IOS"},
+        {"id": 9, "courseCode": "DPS 924", "courseName": "Mobile App Development-Android"},
+        {"id": 10, "courseCode": "BSD 772", "courseName": "Software Development, Co-op II"}
+    ]
+}
